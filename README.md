@@ -63,7 +63,3 @@ npm run dev
 ```
 
 Visit `http://localhost:5173` to view the application.
-
-## 📝 License
-
-This project is licensed under the MIT License.

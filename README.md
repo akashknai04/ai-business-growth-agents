@@ -40,8 +40,8 @@ The system ingests your raw business data (CSV uploads, CRM data, marketing ad s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/preethamkr1/ai-business-os.git
-cd ai-business-os
+git clone https://github.com/akashknai04/ai-business-growth-agents.git
+cd ai-business-growth-agents
 ```
 
 ### 2. Backend Setup
